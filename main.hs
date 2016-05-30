@@ -67,4 +67,3 @@ divfloat x y = (fromIntegral x) / (fromIntegral y)
 
 main :: IO ()
 main = warp 3000 App
-
