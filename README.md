@@ -8,7 +8,7 @@
 *The assumptions are that the Haskell language and enviroment are installed already
 * **Download the ZIP file** unpack the archive file 
 * **Open the terminal** go to the directory where the project is extract cd yourdirectory/file/names
-* **In the terminal window type the following**  stack build && stack exec haskell
+* **In the terminal window type the following**  stack build && stack exec Calculator-project
 
 The RESTfull API can be tested in your favorite web browser, in order to test the app go to:
 
