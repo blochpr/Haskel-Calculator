@@ -6,9 +6,11 @@ build-type:        Simple
 executable         Calculator
     hs-source-dirs: .
 
-    main-is:           main.hs
+    main-is:           Main.hs
 
     ghc-options:       -threaded -O2 -rtsopts -with-rtsopts=-N
+
+
 
     extensions: TemplateHaskell
                 QuasiQuotes
